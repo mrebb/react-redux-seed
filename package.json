@@ -1,5 +1,5 @@
 {
-  "name": "34-asynchronous-actions",
+  "name": "react-redux-seed",
   "version": "1.0.0",
   "description": "This project is a basic introduction into react.",
   "main": "index.js",
@@ -28,15 +28,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khuynh92/34-asynchronous-actions.git"
+    "url": "git+https://github.com/mrebb/react-redux-seed.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/khuynh92/34-asynchronous-actions/issues"
+    "url": "https://github.com/mrebb/react-redux-seed.git"
   },
-  "homepage": "https://github.com/khuynh92/34-asynchronous-actions#readme",
+  "homepage": "https://github.com/mrebb/react-redux-seed.git#readme",
   "devDependencies": {
     "@material-ui/core": "^3.0.2",
     "@material-ui/icons": "^3.0.1",
